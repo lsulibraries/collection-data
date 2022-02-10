@@ -14,5 +14,5 @@ Descriptive metadata is shared as CSV
 ## Louisiana Digital Library Collection 
 The collection, metadata and images, can be viewed at: https://louisianadigitallibrary.org/islandora/object/lsu-sc-chaney:collection. 
 
-#Access the Data
+# Access the Data
 https://github.com/lsulibraries/collection-data/blob/f4a37b6e97496135fdeeca46a43c51bf8e3811a5/ThomasChaneyPapers_Ms5162.csv
